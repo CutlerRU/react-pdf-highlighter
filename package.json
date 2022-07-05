@@ -30,14 +30,14 @@
     "clean": "rm -rf dist"
   },
   "peerDependencies": {
-    "react": ">=16.4.0",
-    "react-dom": ">=16.4.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
     "@types/lodash.debounce": "^4.0.6",
     "@types/pdfjs-dist": "^2.7.4",
-    "@types/react": "^16.4.0",
-    "@types/react-dom": "^16.4.0",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.6",
     "lodash.debounce": "^4.0.8",
     "pdfjs-dist": "2.11.338",
     "react-rnd": "^10.1.10"
